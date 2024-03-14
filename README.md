@@ -1,0 +1,1 @@
+Designed the whole SRS document of a music streaming application. Used agile techniques with the project group, such as SCRUM, and desiged use case map, user stories, state diagrams and activity diagrams.
